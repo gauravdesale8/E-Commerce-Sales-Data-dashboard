@@ -6,7 +6,8 @@ This project is aimed at creating an interactive dashboard using PowerBI to anal
 ## Dashboard View
 ![Example Image](https://github.com/gauravdesale8/E-Commerce-Sales-Data-dashboard/blob/main/Dashboard.png)
 
-![Example Video](https://github.com/gauravdesale8/E-Commerce-Sales-Data-dashboard/blob/main/dashboard-video.mp4)
+https://github.com/gauravdesale8/E-Commerce-Sales-Data-dashboard/assets/45401708/f6d0a257-c32d-47b2-959c-01af1366cef7
+
 
 
 
