@@ -3,6 +3,10 @@
 ## Overview
 This project is aimed at creating an interactive dashboard using PowerBI to analyze and visualize e-commerce sales data. The dashboard provides comprehensive insights into the sales performance, trends, and key metrics of an e-commerce business.
 
+## Dashboard View
+![Example Image](https://github.com/gauravdesale8/E-Commerce-Sales-Data-dashboard/blob/main/Dashboard.png)
+
+
 ## Features
 - **Data Analysis**: The dashboard utilizes the power of PowerBI to analyze and process large volumes of e-commerce sales data, providing valuable insights into customer behavior, product performance, and revenue trends.
 - **Interactive Visualizations**: With a user-friendly interface, the dashboard offers interactive visualizations such as charts, graphs, and maps, enabling users to explore and understand the data from different angles.
